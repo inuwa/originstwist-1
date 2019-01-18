@@ -1,0 +1,12 @@
+app-our-product {
+  .olive {
+    list-style-type: disc;
+    list-style-image: url(/assets/img/list_style.gif);
+    padding-top: 0;
+    margin: 0;
+
+    &__list {
+      margin: 10px;
+    }
+  }
+}
