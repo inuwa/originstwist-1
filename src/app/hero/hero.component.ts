@@ -16,17 +16,17 @@ interface Image {
 export class HeroComponent implements OnInit {
   public images: Image[] = [
     {
-      location: '../../assets/img/red_cup-min.jpg',
+      location: 'assets/img/red_cup-min.jpg',
       title: 'African Print cup - Red',
       description: 'Recyclable cup with Nigerian Atampa Print on a Red background'
     },
     {
-      location: '../../assets/img/yellow_cup-min.jpg',
+      location: 'assets/img/yellow_cup-min.jpg',
       title: 'African Print cup - Yellow',
       description: 'Recyclable cup with Nigerian Atampa Print on a Yellow background'
     },
     {
-      location: '../../assets/img/green_cup-min.jpg',
+      location: 'assets/img/green_cup-min.jpg',
       title: 'African Print cup - Green',
       description: 'Recyclable cup with Nigerian Atampa Print on a Green background'
     }
