@@ -3,6 +3,10 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: 'Roboto', sans-serif;
+  .container {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   .toolbar {
     color: darkgray;
     display: flex;
